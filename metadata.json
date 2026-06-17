@@ -1,0 +1,6 @@
+{
+  "name": "CholoBD",
+  "description": "Smart Travel & Transport App for Bangladesh featuring transport search, ride sharing, vehicle rental, and parcel delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
